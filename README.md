@@ -19,7 +19,7 @@
 🧠 Skilled in Full-Stack Development using Python, Java, React, Spring Boot, and Django  
 🔧 Driven by a passion for solving real-world problems through innovative technology solutions  
 
-📬 Reach me: [gnkarthikeya@gmail.com](mailto:gnkarthikeya@gmail.com) | [LinkedIn](https://linkedin.com/in/neeraj-karthikeya-gadesetty) | +91 8688106032
+📬 Reach me: [gnkarthikeya@gmail.com](mailto:gnkarthikeya@gmail.com) | [LinkedIn](https://linkedin.com/in/neeraj-karthikeya-gadesetty) 
 
 
 
