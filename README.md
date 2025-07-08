@@ -95,7 +95,7 @@
 ---
 
 ### 📜 Certifications
-
+- 🟨 [ServiceNow Certified System Administrator](https://www.credly.com/badges/da2a634e-c230-4a9a-a7f1-0d40b2127d46/public_url)
 - 🟩 [AWS Certified Developer – Associate](https://www.credly.com/badges/ab3d94b8-7075-4b25-b3b3-0b91b2b9f4d0/public_url)  
 - 🟧 [Red Hat Certified Enterprise Application Developer](https://www.credly.com/badges/cbf1d438-0f37-4a5f-abe6-3f43aaabc64a/public_url)  
 - 🟦 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/fcd5fa93-0775-4337-8d3b-855b2355329f/public_url)  
